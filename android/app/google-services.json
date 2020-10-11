@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621147493314",
+    "firebase_url": "https://fitforever-90c08.firebaseio.com",
+    "project_id": "fitforever-90c08",
+    "storage_bucket": "fitforever-90c08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621147493314:android:aba875ab793a7eb1307c5b",
+        "android_client_info": {
+          "package_name": "fitforever.fitforeverapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621147493314-fp5q8p7qgh17cocg2fq0lnelqffb0plp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP25qhL1OYAhr44jFjydqIBPO8bClng6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621147493314-fp5q8p7qgh17cocg2fq0lnelqffb0plp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
